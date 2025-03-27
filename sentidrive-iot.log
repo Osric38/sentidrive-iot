@@ -1,0 +1,62 @@
+Jan 18 11:47:53 (Pid:64476) : check request
+Jan 18 11:47:53 (Pid:64476) : Invalid token (1)
+Jan 18 11:48:07 (Pid:64476) : check request
+Jan 18 11:48:08 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 18 11:48:08 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:44","deviceImei":"962476051354909","msg":{"alertType":"1041","deviceImei":"869247060001762","lng":0,"alarmLabel":"30,30,30,31,37,36,32,24,02,03,14,34,38,00,01,00","alarmTime":"2024-02-03 06:34:38","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 18 11:48:08 (Pid:64476) : Item 0 : invalid-alarm-type#257 (401), Item 1 : invalid-alarm-type#1041 (401) (5)
+Jan 20 08:08:14 (Pid:64476) : check request
+Jan 20 08:08:14 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 08:51:39 (Pid:64476) : check request
+Jan 21 08:51:39 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 08:51:59 (Pid:64476) : check request
+Jan 21 08:51:59 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 08:52:04 (Pid:64476) : check request
+Jan 21 08:52:04 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 08:52:04 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:44","deviceImei":"962476051354909","msg":{"alertType":"1041","deviceImei":"869247060001762","lng":0,"alarmLabel":"30,30,30,31,37,36,32,24,02,03,14,34,38,00,01,00","alarmTime":"2024-02-03 06:34:38","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 08:52:04 (Pid:64476) : Item 0 : invalid-alarm-type#257 (401), Item 1 : invalid-alarm-type#1041 (401) (5)
+Jan 21 10:25:45 (Pid:64476) : check request
+Jan 21 10:25:45 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 10:26:05 (Pid:64476) : check request
+Jan 21 10:26:05 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 10:26:11 (Pid:64476) : check request
+Jan 21 10:26:11 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 10:26:11 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:44","deviceImei":"962476051354909","msg":{"alertType":"1041","deviceImei":"869247060001762","lng":0,"alarmLabel":"30,30,30,31,37,36,32,24,02,03,14,34,38,00,01,00","alarmTime":"2024-02-03 06:34:38","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 10:26:11 (Pid:64476) : Item 0 : invalid-alarm-type#257 (401), Item 1 : invalid-alarm-type#1041 (401) (5)
+Jan 21 10:26:22 (Pid:64476) : check request
+Jan 21 10:26:22 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 10:26:22 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:44","deviceImei":"962476051354909","msg":{"alertType":"1041","deviceImei":"869247060001762","lng":0,"alarmLabel":"30,30,30,31,37,36,32,24,02,03,14,34,38,00,01,00","alarmTime":"2024-02-03 06:34:38","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 10:26:22 (Pid:64476) : Item 0 : invalid-alarm-type#257 (401), Item 1 : invalid-alarm-type#1041 (401) (5)
+Jan 21 10:26:35 (Pid:64476) : check request
+Jan 21 10:26:35 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 10:26:35 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:44","deviceImei":"962476051354909","msg":{"alertType":"1041","deviceImei":"869247060001762","lng":0,"alarmLabel":"30,30,30,31,37,36,32,24,02,03,14,34,38,00,01,00","alarmTime":"2024-02-03 06:34:38","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 10:26:35 (Pid:64476) : Item 0 : invalid-alarm-type#257 (401), Item 1 : invalid-alarm-type#1041 (401) (5)
+Jan 21 10:37:25 (Pid:64476) : check request
+Jan 21 10:37:25 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 12:47:21 (Pid:64476) : check request
+Jan 21 12:47:21 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 12:47:21 (Pid:64476) : Debug: Treatment finished
+Jan 21 12:47:21 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:44","deviceImei":"962476051354909","msg":{"alertType":"1041","deviceImei":"869247060001762","lng":0,"alarmLabel":"30,30,30,31,37,36,32,24,02,03,14,34,38,00,01,00","alarmTime":"2024-02-03 06:34:38","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 12:47:21 (Pid:64476) : Debug: Treatment finished
+Jan 21 12:47:49 (Pid:64476) : check request
+Jan 21 12:47:49 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 12:47:49 (Pid:64476) : Debug: Treatment finished
+Jan 21 12:47:49 (Pid:64476) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:44","deviceImei":"962476051354909","msg":{"alertType":"1041","deviceImei":"869247060001762","standardAlarmValue":"15","lng":0,"alarmLabel":"30,30,30,31,37,36,32,24,02,03,14,34,38,00,01,00","alarmTime":"2024-02-03 06:34:38","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 12:47:49 (Pid:64476) : Debug: Treatment finished
+Jan 21 13:01:16 (Pid:59852) : check request
+Jan 21 13:01:16 (Pid:59852) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"257","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 13:02:03 (Pid:59852) : check request
+Jan 21 13:02:03 (Pid:59852) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"256","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"standardAlarmValue":"15","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 13:02:27 (Pid:59852) : check request
+Jan 21 13:02:27 (Pid:59852) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"256","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"standardAlarmValue":"15","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 13:03:04 (Pid:59852) : check request
+Jan 21 13:03:04 (Pid:59852) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"256","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"standardAlarmValue":"35","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 13:03:24 (Pid:59852) : check request
+Jan 21 13:03:24 (Pid:59852) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"256","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"standardAlarmValue":"35","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 13:03:40 (Pid:59852) : check request
+Jan 21 13:03:40 (Pid:59852) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"256","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"standardAlarmValue":"35","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 13:03:52 (Pid:59852) : check request
+Jan 21 13:03:52 (Pid:59852) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:37","deviceImei":"962476051354909","msg":{"alertType":"256","deviceImei":"869247060001762","lng":0,"alarmTime":"2024-02-03 06:34:38","signalDropChannel":18,"gpsSpeed":0,"alarmSerialNo":401,"standardAlarmValue":"35","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 13:03:52 (Pid:59852) : Debug: Treatment finished
+Jan 21 13:03:52 (Pid:59852) : Debug: Start treatment for Alarm - params: {"gateTime":"2024-02-05 15:36:44","deviceImei":"962476051354909","msg":{"alertType":"1041","deviceImei":"869247060001762","lng":0,"alarmLabel":"30,30,30,31,37,36,32,24,02,03,14,34,38,00,01,00","alarmTime":"2024-02-03 06:34:38","lat":0},"msgClass":1,"type":"DEVICE"}
+Jan 21 13:03:52 (Pid:59852) : Debug: Treatment finished
+Jan 22 21:34:10 (Pid:39548) : No route found for "GET /debugStream" (0)
